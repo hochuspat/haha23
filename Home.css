@@ -1,0 +1,12 @@
+.All{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.Navv{
+    position: relative;
+    top: 0;
+}
+.Menu{
+    margin-top:50px;
+}

@@ -1,0 +1,66 @@
+.images-wrapper img {
+    margin: 20px 20px 0px 20px;
+    transition: all 500ms ease;
+    scale: 0.9;
+}
+.One img:hover {
+    scale: 1.1;
+    cursor: pointer;
+}
+.Two img:hover {
+    scale: 1.1;
+    cursor: pointer;
+}
+.Three img:hover {
+    scale: 1.1;
+    cursor: pointer;
+}
+.Four img:hover {
+    scale: 1.1;
+    cursor: pointer;
+}
+.image-wrapper {
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    top: 20px;
+}
+.papa {
+    position: absolute;
+    top: -60px;
+    left: -15px;
+    scale: 0.9;
+}
+.One{
+    margin: 20px 20px 0px 20px;
+    transition: all 500ms ease;
+    scale: 0.9;
+}
+.Two{
+    margin: 20px 20px 0px 20px;
+    transition: all 500ms ease;
+    scale: 0.9;
+}
+.Three{
+    margin: 20px 20px 0px 20px;
+    transition: all 500ms ease;
+    scale: 0.9;
+}
+.Four{
+    margin: 20px 20px 0px 20px;
+    transition: all 500ms ease;
+    scale: 0.9;}
+
+.images h1{
+    font-size: 20px;
+    position: absolute;
+left:100px ;
+top:-20px;
+}
+.images h2{
+    font-size: 20px;
+    
+    position: absolute;
+    left: 250px;
+    top:-20px;
+}

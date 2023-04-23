@@ -1,0 +1,48 @@
+.header {
+    margin-top: 65px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 86px;
+    padding: 0 20px;
+    background-color: #fff;
+    border-bottom: 1px solid #ddd;
+  }
+  
+  .logo img {
+    position: relative;
+    top:-10px;
+    padding-top: 30px;
+    height:auto;
+    
+  }
+  
+  .user-info {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: flex-end;
+  }
+  
+  .user {
+    font-size: 16px;
+    font-weight: bold;
+    color: #333;
+    position: relative;
+    top: -40px;
+    
+}
+  
+  .date {
+    margin-bottom: 40px;
+    position: relative;
+    left:-50px;
+    font-size: 14px;
+    color: #666;
+  }
+  .Not{
+    position: relative;
+    left: -40px;
+    bottom:-75px;
+    
+  }

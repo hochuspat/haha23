@@ -1,0 +1,10 @@
+.imaggs img{
+    scale: 0.8;
+
+}
+.imaggs h1{
+    font-size: 19px;
+    position: relative;
+    left:120px;
+    top:20px
+}

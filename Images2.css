@@ -1,0 +1,79 @@
+/* 
+.imagess img {
+    margin: 20px 20px 0px 20px;
+    transition: all 500ms ease;
+    scale: 0.8;
+
+}
+.imagess img:hover {
+    scale: 1.1;
+    cursor: pointer;
+}
+.image-wrapperr{
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    align-items: ;
+    top: 40px;
+}
+.papa1 img {
+    position: absolute;
+    top: -60px;
+    left: -15px;
+    scale: 0.9;
+} */
+.imagess{
+    position: relative;
+    top:-30px;
+    left:-30px;
+}
+.imagess h1
+{
+    font-size: 16px;
+    font-weight: lighter;
+    position: relative;
+    left:120px;
+    top:20px
+}
+.images-wrapperr img {
+    margin: 20px 20px 0px 20px;
+    transition: all 500ms ease;
+}
+.Onee img:hover {
+    scale: 1.1;
+    cursor: pointer;
+}
+.Twoo img:hover {
+    scale: 1.1;
+    cursor: pointer;
+}
+.Threee img:hover {
+    scale: 1.1;
+    cursor: pointer;
+}
+
+.image-wrapperr {
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    top: 20px;
+}
+
+.Onee{
+    /* margin: 20px 20px 0px 20px; */
+    transition: all 500ms ease;
+    scale: 0.8;
+    margin-top: -10px;
+}
+.Twoo{
+    /* margin: 20px 20px 0px 20px; */
+    transition: all 500ms ease;
+    scale: 0.8;
+    margin-top: -50px;
+}
+.Threee{
+    /* margin: 20px 20px 0px 20px; */
+    transition: all 500ms ease;
+    scale: 0.8;
+    margin-top: -50px;
+}
